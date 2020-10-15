@@ -7,6 +7,8 @@ public class Hello {
 		System.out.println("hello world");
 		Customer cust=new Customer("pradeep","sklm");
 		System.out.println(cust);
+		
+		System.out.println("new changes");
 	}
 
 }
